@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xgrafix
 - 📐 I’m interested in Software Engineering and Mathematics.
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/xgrafix)
